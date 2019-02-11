@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Roberto",
+        "surname": "Treviño",
+        "profession": "Nuevo León",
+        "age": 33,
+        "phone": "(195) 170 5838",
+        "email": "faisal_khan@example.com",
+        "photo": "assets\/images\/avatars\/male\/41.jpg",
+        "lat": 26.238436,
+        "lng": -99.887299,
+        "bio": "Roberto Treviño se encarga de administrar la que es una de nuestras regiones más importantes, Nuevo León. Se encarga de administrar la experiencia OXXO Gas en todo el estado: Desde dirigir  el programa estándares de las estaciones hasta planear la visión del satisfacción del cliente por medio de una implementación consistente de nuestros valores, misión y visión en nuestras gasolineras."
+    },
+    {
+        "name": "Juan",
+        "surname": "Montes",
+        "profession": "Coahuila",
+        "age": 32,
+        "phone": "(426) 535 5053",
+        "email": "johann-kühn@example.com",
+        "photo": "assets\/images\/avatars\/male\/2.jpg",
+        "lat": 25.421391,
+        "lng": -101.000237,
+        "bio": "Juan Montes se encarga de administrar la que es una de nuestras regiones mayor credimiento, Coahuila. Se encarga de administrar la experiencia OXXO Gas en todo el estado: Desde dirigir  el programa estándares de las estaciones hasta planear la visión del satisfacción del cliente por medio de una implementación consistente de nuestros valores, misión y visión en nuestras gasolineras."
+    },
+    {
+        "name": "Alicia",
+        "surname": "Doblado",
+        "profession": "Aguascalientes",
+        "age": 27,
+        "phone": "(803) 900 1526",
+        "email": "brigita90@example.com",
+        "photo": "assets\/images\/avatars\/female\/6.jpg",
+        "lat": 21.885256,
+        "lng": -102.291565,
+        "bio": "Alicia Doblado se encarga de administrar la que es una de nuestras regiones emergentes, Aguascalientes. Se encarga de administrar la experiencia OXXO Gas en todo el estado: Desde dirigir  el programa estándares de las estaciones hasta planear la visión del satisfacción del cliente por medio de una implementación consistente de nuestros valores, misión y visión en nuestras gasolineras."
+    },
+    {
+        "name": "María",
+        "surname": "Carranza",
+        "profession": "San Luis Potosí",
+        "age": 28,
+        "phone": "(971) 209 8767",
+        "email": "otilia_89@example.com",
+        "photo": "assets\/images\/avatars\/female\/12.jpg",
+        "lat": 22.151610,
+        "lng": -100.974610,
+        "bio": "María Carranza se encarga de administrar la que es una de nuestras regiones emergentes, San Luis Potosí. Se encarga de administrar la experiencia OXXO Gas en todo el estado: Desde dirigir  el programa estándares de las estaciones hasta planear la visión del satisfacción del cliente por medio de una implementación consistente de nuestros valores, misión y visión en nuestras gasolineras."
+    },
+    {
+        "name": "Guadalupe",
+        "surname": "Rayón",
+        "profession": "Estado de México",
+        "age": 21,
+        "phone": "(828) 732 5276",
+        "email": "capucine-96@example.com",
+        "photo": "assets\/images\/avatars\/female\/26.jpg",
+        "lat": 19.292120,
+        "lng": -99.655780,
+        "bio": "Guadalupe Rayón se encarga de administrar la prometedora región del Estado de México. Se encarga de administrar la experiencia OXXO Gas en todo el estado: Desde dirigir  el programa estándares de las estaciones hasta planear la visión del satisfacción del cliente por medio de una implementación consistente de nuestros valores, misión y visión en nuestras gasolineras."
+    }
+]

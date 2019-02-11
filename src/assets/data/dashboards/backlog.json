@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Repensar estrategia promociones",
+    "time": "11h",
+    "status": "Pendiente",
+    "priority": "Alta"
+  },
+  {
+    "id": 2,
+    "name": "Discutir expansión",
+    "time": "3h",
+    "status": "Pendiente",
+    "priority": "Media"
+  },
+  {
+    "id": 3,
+    "name": "Orientar a nuevos miembros",
+    "time": "1d",
+    "status": "Pendiente",
+    "priority": "Baja"
+  }
+]

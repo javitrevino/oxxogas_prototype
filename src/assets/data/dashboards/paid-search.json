@@ -1,0 +1,68 @@
+[
+  {
+    "url": "Asistencia/Otros",
+    "views": 11,
+    "duration": "00:00:53",
+    "conversion": "25%"
+  },
+  {
+    "url": "Magna",
+    "views": 35000000,
+    "duration": "00:01:27",
+    "conversion": "18%"
+  },
+  {
+    "url": "Premium",
+    "views": 2000000,
+    "duration": "00:01:10",
+    "conversion": "7%"
+  },
+  {
+    "url": "Aditivos",
+    "views": 8998,
+    "duration": "00:01:52",
+    "conversion": "13%"
+  },
+  {
+    "url": "Aditivos Premium",
+    "views": 120005,
+    "duration": "00:00:51",
+    "conversion": "22%"
+  },
+  {
+    "url": "Billetigas",
+    "views": 3000,
+    "duration": "00:00:28",
+    "conversion": "25%"
+  },
+  {
+    "url": "Akkron",
+    "views": 164,
+    "duration": "00:02:44",
+    "conversion": "26%"
+  },
+  {
+    "url": "Aceite",
+    "views": 33372,
+    "duration": "00:02:13",
+    "conversion": "47%"
+  },
+  {
+    "url": "Especialidades",
+    "views": 100,
+    "duration": "00:00:34",
+    "conversion": "5%"
+  },
+  {
+    "url": "Lubricante",
+    "views": 999,
+    "duration": "00:00:49",
+    "conversion": "9%"
+  },
+  {
+    "url": "Diesel",
+    "views": 9689,
+    "duration": "00:00:27",
+    "conversion": "0%"
+  }
+]
